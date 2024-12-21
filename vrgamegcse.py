@@ -1,3 +1,9 @@
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+import networkx as nx
+import numpy as np
+import plotly.graph_objects as go
 # Updated data for topic links, difficult topics, and VR benefits
 ##########################
 
